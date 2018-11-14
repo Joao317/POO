@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Principalporra3 {
+public class Principal {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int n1, n2, n3, n4, n5;
