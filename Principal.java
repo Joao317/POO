@@ -304,7 +304,3 @@ public class Principal {
 		}
 
 	}
-
-	public double calcularComissao() 
-
-}
